@@ -1,12 +1,18 @@
-# ESPboy_SystemBeeps
-A chip music album - System Beeps 
+# ESPboy_FaultyRobots
+A chip music album - Faulty Robots 2021 
 
-by Shiru 12.12.2019
-
+by Shiru 
 shiru@mail.ru
 
-https://www.patreon.com/shiru8bit
+Faulty Robots is a music album by Shiru in form of a Commodore PET program that features Shiru's original music. The code and music sketches were originally created to be used in the PETSCII Robots game but ended up being released as a separate album. You may consider it an unofficial fan-made soundtrack to the game.
 
-My first project for ESPboy, in form of an Arduino IDE sketch. This is just a chip music album that plays a set of monophonic songs via built-in speaker, so not much useful as is, but it is a start.
+Original PC version
+https://www.youtube.com/watch?v=JEhGa5avUKM
 
-What may come handy here is some code. Adafruit GFX coupled with the ST77xx display driver proved to be extremely slow. For one, text screen redraw took a good second to complete, with flicker, which is not acceptable by any means, and it wouldn’t allow any color images besides raw RGB565 that is just inconvenient to handle. So I figured out a few tricks that has been used to make it work reasonably fast and without flicker, as well as support regular 8-bit BMP files and draw them partially when needed (see drawBMP8Part, drawCharFast).
+Commodore PET version
+https://www.youtube.com/watch?v=rOkf2OD2aI0
+
+Bandcamp: https://shiru8bit.bandcamp.com/album/...
+Download PRG (sources included): http://shiru.untergrund.net/files/fau...
+
+Support Shiru in doing more stuff like this: https://www.patreon.com/shiru8bit
