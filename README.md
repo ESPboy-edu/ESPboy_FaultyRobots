@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=JEhGa5avUKM
 Commodore PET version
 https://www.youtube.com/watch?v=rOkf2OD2aI0
 
-Bandcamp: https://shiru8bit.bandcamp.com/album/...
-Download PRG (sources included): http://shiru.untergrund.net/files/fau...
+Bandcamp: https://shiru8bit.bandcamp.com/album/faulty-robots
+
+Download PRG (sources included): http://shiru.untergrund.net/files/
 
 Support Shiru in doing more stuff like this: https://www.patreon.com/shiru8bit
